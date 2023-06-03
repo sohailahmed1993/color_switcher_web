@@ -34,7 +34,7 @@ li{
 }
 
 li:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
     color: black;
 }
 #switcher{
@@ -85,4 +85,11 @@ p{
     margin: 70px ;
     text-align: justify;
     font-size: 20px;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+
 }
